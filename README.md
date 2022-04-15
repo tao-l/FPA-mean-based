@@ -6,3 +6,5 @@ Run the following Matlab scripts to produce results corresponding to each experi
 * |M^1|=2, MWU (Figure 3): `experiment_MWU_M_2.m`
 * |M^1|=1, epsilon-Greedy (Figure 4): `experiment_eps_greedy_M_1.m`
 * |M^1|=1, MWU (Figure 5): `experiment_MWU_M_1.m`
+
+Each script will automatically store figures in the folder `tmp_figures`. 
